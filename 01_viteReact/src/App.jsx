@@ -1,8 +1,11 @@
-
+import Viv from "./try.jsx";
 
 function App() {
   return (
-   <h1>Vite + React</h1>
+    <>
+   <Viv />
+   <h1>Hello Vite + React!</h1>
+  </>
   )
 }
 
